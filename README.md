@@ -1,6 +1,6 @@
 # EasyTrack 🚀
 
-An easy-to-use web application to track and organize your job applications, interview stages, notes, and offers in one place.
+EasyTrack is a personal job tracker that helps you manage applications, schedule interviews, and track offers in one place.
 
 ---
 
