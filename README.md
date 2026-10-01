@@ -1,4 +1,4 @@
-# EasyTrack 🚀
+# EasyTrack 
 
 EasyTrack is a personal job tracker that helps you manage applications, schedule interviews, and track offers in one place.
 
