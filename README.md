@@ -1,20 +1,18 @@
 # EasyTrack 🚀
 
-> **Track every application. Land your next opportunity.**
-
-EasyTrack is a modern, full-stack Job Application Tracker designed to replace messy spreadsheets with an intuitive, unified workspace. It empowers job seekers to manage their entire career search lifecycle—from initial discovery to final offer letters.
+An easy-to-use web application to track and organize your job applications, interview stages, notes, and offers in one place.
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- **📋 Visual Kanban Board:** Seamless drag-and-drop workflow tracking applications across every stage (Wishlist, Applied, Screening, Interview, Technical Round, Offer, Rejected, Withdrawn).
-- **📊 Real-Time Analytics:** Interactive metrics and charts tracking application cadence, status distribution, and interview conversion rates.
-- **📅 Multi-Round Interview Tracker:** Log coding tests, system design, and behavioral interviews with notes, dates, and interviewer contacts.
-- **⏰ Smart Follow-up Reminders:** Automatically groups follow-ups into *Overdue*, *Due Today*, and *Upcoming* so you never ghost a recruiter.
-- **📄 Resume & Document Attachment:** Attach tailored resumes and cover letters directly to each application.
-- **🌓 Light & Dark Theme:** Polished SaaS interface with system-preference detection and instant theme toggling.
-- **🔒 Enterprise-Grade Security:** HTTP-only authentication cookies, bcrypt password hashing, data validation with Zod, and strict tenant data isolation.
+- **📋 Kanban Board:** Drag and drop applications across hiring stages (Applied, Interview, Offer, etc.).
+- **📊 Analytics Dashboard:** Track application numbers, interview rates, and search progress with clean charts.
+- **📅 Interview Tracking:** Log interview rounds, dates, interviewer details, and preparation notes.
+- **⏰ Follow-up Reminders:** Keep track of upcoming and overdue follow-ups with recruiters.
+- **📄 Resume Attachments:** Upload and manage resumes and cover letters directly with each application.
+- **🌓 Dark & Light Mode:** Clean, responsive design with light and dark mode support.
+- **🔒 Secure Authentication:** User accounts protected with JWT authentication and secure cookies.
 
 ---
 
