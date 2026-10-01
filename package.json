@@ -1,0 +1,31 @@
+{
+  "name": "easytrack",
+  "version": "1.0.0",
+  "description": "Production-Ready Full-Stack MERN Job Application Tracker",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server",
+    "test": "npm run test --prefix server && npm run test --prefix client",
+    "test:server": "npm run test --prefix server",
+    "test:client": "npm run test --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server",
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "job-tracker",
+    "mern",
+    "react",
+    "express",
+    "mongodb",
+    "kanban"
+  ],
+  "author": "EasyTrack Team",
+  "license": "MIT"
+}
